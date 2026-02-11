@@ -1,0 +1,118 @@
+mass,mu_obs,mu_exp,epsilon_squared_obs,epsilon_squared_exp,factor,mu_median_bayes,mu_90_bayes,epsilon_squared_90_bayes,post_data,post_pred,prior_pred,model
+0.01,0.8192671574058372,1.903090883007855,3.587379275682303e-09,5.46756917764373e-09,1.5708294847732895e-05,0.23748814423186212,0.8060326448022971,3.5582858852897753e-09,"Inference data with groups:
+	> posterior
+	> sample_stats
+	> observed_data","Inference data with groups:
+	> posterior_predictive
+	> observed_data","Inference data with groups:
+	> prior
+	> prior_predictive
+	> observed_data",<pyhf.pdf.Model object at 0x7f42a847ea80>
+0.02,0.7857539807898202,1.8099034033632266,9.035015260912819e-09,1.3712394329778872e-08,0.00010388938874082903,0.22599209244348012,0.7845522960132053,9.028103813538359e-09,"Inference data with groups:
+	> posterior
+	> sample_stats
+	> observed_data","Inference data with groups:
+	> posterior_predictive
+	> observed_data","Inference data with groups:
+	> prior
+	> prior_predictive
+	> observed_data",<pyhf.pdf.Model object at 0x7f42a7e98800>
+0.03,0.737441060475179,1.6806702075698539,1.9245997978725178e-08,2.9054809278803108e-08,0.0005022888716806961,0.23168592302491886,0.7777426338760718,1.976490500932359e-08,"Inference data with groups:
+	> posterior
+	> sample_stats
+	> observed_data","Inference data with groups:
+	> posterior_predictive
+	> observed_data","Inference data with groups:
+	> prior
+	> prior_predictive
+	> observed_data",<pyhf.pdf.Model object at 0x7f429cf6d730>
+0.04,0.8030884935428609,1.732565631421536,3.8463032103326137e-08,5.6494564249109244e-08,0.0018421442350083196,0.23754744932583105,0.7828055911912091,3.797421239400714e-08,"Inference data with groups:
+	> posterior
+	> sample_stats
+	> observed_data","Inference data with groups:
+	> posterior_predictive
+	> observed_data","Inference data with groups:
+	> prior
+	> prior_predictive
+	> observed_data",<pyhf.pdf.Model object at 0x7f4320ee6300>
+0.05,0.77629888336474,1.592366286744185,6.876842043321712e-08,9.849088851441674e-08,0.006091849093460275,0.2613145896848396,0.8230343637394913,7.080819968501582e-08,"Inference data with groups:
+	> posterior
+	> sample_stats
+	> observed_data","Inference data with groups:
+	> posterior_predictive
+	> observed_data","Inference data with groups:
+	> prior
+	> prior_predictive
+	> observed_data",<pyhf.pdf.Model object at 0x7f429e014fb0>
+0.06,0.8058745683268668,1.729696985416489,1.270668555206071e-07,1.8615880038792884e-07,0.02003535836279915,0.2533829145992036,0.8477022840199759,1.3032274953093786e-07,"Inference data with groups:
+	> posterior
+	> sample_stats
+	> observed_data","Inference data with groups:
+	> posterior_predictive
+	> observed_data","Inference data with groups:
+	> prior
+	> prior_predictive
+	> observed_data",<pyhf.pdf.Model object at 0x7f429e2927b0>
+0.07,0.8284306804680415,1.7528004039221572,2.434552772970467e-07,3.5412561207371894e-07,0.07154548164524235,0.2782239286221936,0.8672061771322894,2.490877026845344e-07,"Inference data with groups:
+	> posterior
+	> sample_stats
+	> observed_data","Inference data with groups:
+	> posterior_predictive
+	> observed_data","Inference data with groups:
+	> prior
+	> prior_predictive
+	> observed_data",<pyhf.pdf.Model object at 0x7f429e260200>
+0.08,0.7982591898523331,1.7173159859837834,3.8894475661353856e-07,5.704808413562694e-07,0.18950990557985192,0.2501067467242384,0.8715458980049214,4.064069153439935e-07,"Inference data with groups:
+	> posterior
+	> sample_stats
+	> observed_data","Inference data with groups:
+	> posterior_predictive
+	> observed_data","Inference data with groups:
+	> prior
+	> prior_predictive
+	> observed_data",<pyhf.pdf.Model object at 0x7f429ce19670>
+0.09,0.7858581105897615,1.6938331874438104,6.842437417255162e-07,1.0045558404063448e-06,0.5957684876970648,0.2367025420613954,0.7876544013449698,6.850253072093246e-07,"Inference data with groups:
+	> posterior
+	> sample_stats
+	> observed_data","Inference data with groups:
+	> posterior_predictive
+	> observed_data","Inference data with groups:
+	> prior
+	> prior_predictive
+	> observed_data",<pyhf.pdf.Model object at 0x7f429e0db500>
+0.1,0.8048469077963649,1.731842917053631,1.057340149702191e-06,1.5510019101149271e-06,1.3890445267823657,0.2744917424581531,0.8505221604537572,1.0869283103707458e-06,"Inference data with groups:
+	> posterior
+	> sample_stats
+	> observed_data","Inference data with groups:
+	> posterior_predictive
+	> observed_data","Inference data with groups:
+	> prior
+	> prior_predictive
+	> observed_data",<pyhf.pdf.Model object at 0x7f4310764530>
+0.2,0.8100947673508689,1.9445345900760427,1.3511772007562183e-05,2.0934000562699775e-05,225.36620422986513,0.24322065852320468,0.8245806118167054,1.3632043227875665e-05,"Inference data with groups:
+	> posterior
+	> sample_stats
+	> observed_data","Inference data with groups:
+	> posterior_predictive
+	> observed_data","Inference data with groups:
+	> prior
+	> prior_predictive
+	> observed_data",<pyhf.pdf.Model object at 0x7f429e6d2d80>
+0.3,0.8567970313003697,2.1124377242688226,0.00016701384124214334,0.0002622439305159438,32555.695395117582,0.28288868657665855,0.9996747670761271,0.00018040262528886742,"Inference data with groups:
+	> posterior
+	> sample_stats
+	> observed_data","Inference data with groups:
+	> posterior_predictive
+	> observed_data","Inference data with groups:
+	> prior
+	> prior_predictive
+	> observed_data",<pyhf.pdf.Model object at 0x7f429e6bfef0>
+0.4,0.09160830102732258,0.12770826271763538,0.008566668197968563,0.010114723852450434,801104301.5872297,0.013142297837749749,0.04720431503268008,0.006149437358503519,"Inference data with groups:
+	> posterior
+	> sample_stats
+	> observed_data","Inference data with groups:
+	> posterior_predictive
+	> observed_data","Inference data with groups:
+	> prior
+	> prior_predictive
+	> observed_data",<pyhf.pdf.Model object at 0x7f429ebefef0>
