@@ -1,9 +1,12 @@
 training_data/
 dm_sets/
 dm_sets_multiclass/
+dm_sets_resnet/
 metrics/
 ntuples/
 outputs/
 plots/
 poster/
 ntuples/
+Report/
+Viva/
